@@ -6,4 +6,21 @@
     </style>
 
     <style name="Theme.FlightManager" parent="Base.Theme.FlightManager" />
+
+    <!-- Background -->
+    <style name="dark_background_color" parent="Base.Theme.FlightManager">
+        <item name="android:background">@color/lightGrey</item>
+    </style>
+
+    <style name="dark_tint_background" parent="Theme.FlightManager">
+        <item name="android:backgroundTint">@color/lightGrey</item>
+    </style>
+
+    <style name="dark_tint" parent="Theme.FlightManager">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+    <style name="dark_app_tint" parent="Theme.FlightManager">
+        <item name="tint">@color/black</item>
+    </style>
 </resources>

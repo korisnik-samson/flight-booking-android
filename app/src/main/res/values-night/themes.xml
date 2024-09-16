@@ -4,4 +4,40 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
+
+    <style name="Theme.FlightManager" parent="Base.Theme.FlightManager" />
+
+    <!-- Background Color -->
+    <style name="dark_background_color" parent="Theme.FlightManager">
+        <item name="android:background">@color/darkGrey</item>
+    </style>
+
+    <style name="dark_grey_background_color" parent="Theme.FlightManager">
+        <item name="android:background">#373737</item>
+    </style>
+
+    <style name="background_drawable" parent="Theme.FlightManager">
+        <item name="android:background">@drawable/background_drawable</item>
+    </style>
+
+    <style name="background_drawable_2" parent="Theme.FlightManager">
+        <item name="android:background">@drawable/drawable_background_2</item>
+    </style>
+
+    <style name="dark_tint_background" parent="Theme.FlightManager">
+        <item name="android:backgroundTint">@color/darkGrey</item>
+        <item name="android:background">@drawable/background_drawable</item>
+    </style>
+
+    <style name="dark_tint" parent="Theme.FlightManager">
+        <item name="android:tint">@color/black</item>
+    </style>
+
+    <style name="dark_app_tint" parent="Theme.FlightManager">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="dark_background_color_ticket_detail" parent="Theme.FlightManager">
+        <item name="android:background">@color/black</item>
+    </style>
 </resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375951344332",
+    "project_id": "flight-manager-71619",
+    "storage_bucket": "flight-manager-71619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375951344332:android:cde2d3d6670a2be2937869",
+        "android_client_info": {
+          "package_name": "com.example.flightmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9W6oLHHzk757wVPAPcyanUsOeeMPR43g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

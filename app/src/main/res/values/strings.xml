@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">Flight Manager</string>
+    <string name="intro_text">SKYBIRD</string>
+
+    <!-- Titles -->
+    <string name="intro_text2">Fly anywhere easily without obstacles</string>
+    <string name="intro_text3">Experience the unparalleled freedom of unhindered flights as you gain access to your flights</string>
+
+    <!-- Buttons -->
+    <string name="button_text">Get Started</string>
+    <string name="button_text2">Sign In</string>
+
+    <!-- Text -->
+    <string name="user_name">Aleksei Kozharin</string>
+    <string name="explore_world_text">Begin to explore your world</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="passengers">Passengers</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="arrival_date">Arrival Date</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="explorer">Explorer</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="flight_class">Flight class</string>
+    <string name="_1_adult">1 Adult</string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="_1_child">1 Child</string>
+    <string name="time">time</string>
+    <string name="time_caps">Time</string>
+    <string name="from_sub">from</string>
+    <string name="to_sub">to</string>
+    <string name="price">EUR 0.00</string>
+    <string name="flight_class_name">Flight class</string>
+    <string name="seat_selection">Seat Selection</string>
+    <string name="available_seat_text">Available</string>
+    <string name="selected_seat_text">Selected</string>
+    <string name="unavailable_seat_text">Unavailable</string>
+    <string name="confirm_seats">Confirm Seats</string>
+    <string name="selected_seats_count">0 seats selected</string>
+    <string name="seat_price_text">EUR 0.00</string>
+    <string name="ticket_details">Ticket Details</string>
+    <string name="date">Date</string>
+    <string name="download_ticket">Download Ticket</string>
+    <string name="airline">Airline</string>
+    <string name="seats">Seats</string>
+    <string name="price_name">Price</string>
 </resources>
